@@ -1,0 +1,15 @@
+composer require --dev phpunit/phpunit
+
+phpUnit -> PHPUnit es un framework para PHP
+ que facilita la creación de clases de pruebas 
+ sobre aplicaciones basadas en PHP. PHP es un 
+ lenguaje que posibilita la creación de páginas
+ web complejas, lo que provoca la necesidad de 
+ controlar el correcto funcionamiento de las mismas.
+
+Qué es PSR-4? -> se agrega en composer.json Es una especificación para la auto carga de clases desde la ruta de los archivos.
+
+
+composer dump
+
+php vendor/phpunit/phpunit/phpunit
